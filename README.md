@@ -1,4 +1,4 @@
-# Hey there, I'm Warren 👋
+## Hey there, I'm Warren 👋
 
 <!--
 **wazzac/wazzac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
